@@ -58,7 +58,7 @@ body{
 
     .square{
         display: flex;
-        margin: 2rem;
+        margin: 1rem;
         background-color: pink;
         width: 7rem;
         height: 7rem;
